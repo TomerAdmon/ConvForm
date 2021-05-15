@@ -1,0 +1,12 @@
+@import "conversational-form/src/styles/mixins/cf-mixins";
+
+/*
+    Globals
+*/
+$cf-base-font-size: 20px !default; // Default is 12px. Positions and sizes will be relative to this size.
+
+$cf-color-background: #fff !default;
+$cf-color-primary: #447afe !default;
+$cf-color-secondary: #f3f4f6 !default;
+
+@import "conversational-form/src/styles/conversational-form";
